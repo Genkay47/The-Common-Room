@@ -5,7 +5,7 @@ A Rosey social network.
 Currently being planned...
 
 
-Goals and accomplishments ([x] not yet, [v] finished):
+Goals and accomplishments ([x], [v]):
 
 - Create a simple and user friendly UI [x]
 - Allow users to create accounts [x]
